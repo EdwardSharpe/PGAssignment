@@ -1,0 +1,16 @@
+.bg-dark {
+  background-color: #4db368 !important;
+}
+
+.bg-primary {
+  background-color: #fff !important;
+}
+
+h1,
+.lead-top {
+  color: #4db368 !important;
+}
+
+#about {
+  background-color: #edf2ef !important;
+}
