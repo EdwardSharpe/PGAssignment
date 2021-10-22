@@ -29,3 +29,8 @@ h1,
 .nav-link:hover {
   color: #4db368 !important;
 }
+
+a.nasa-link {
+  color: black !important;
+  text-decoration: none;
+}
