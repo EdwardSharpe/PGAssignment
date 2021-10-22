@@ -34,3 +34,15 @@ a.nasa-link {
   color: black !important;
   text-decoration: none;
 }
+
+h2.pledge {
+  text-decoration: underline !important;
+}
+
+a.web-link {
+  color: #4db368;
+  text-decoration: none;
+}
+a.web-link:hover {
+  text-decoration: underline;
+}
