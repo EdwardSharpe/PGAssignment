@@ -1,16 +1,31 @@
 .bg-dark {
-  background-color: #4db368 !important;
+  background-color: rgb(34, 139, 34) !important;
+  border-bottom: 1em;
+  border-bottom-color: #4db368;
+}
+
+body {
+  font-family: "/Users/mattschaefer/Documents/PGAssignment/fonts /Noto_Serif_Display/NotoSerifDisplay-VariableFont_wdth,wght.ttf";
+  src: "fonts//Users/mattschaefer/Documents/PGAssignment/fonts /Noto_Serif_Display/NotoSerifDisplay-VariableFont_wdth,wght.ttf";
 }
 
 .bg-primary {
-  background-color: #fff !important;
+  background-image: url("img/img6.jpg") !important;
 }
 
 h1,
 .lead-top {
-  color: #4db368 !important;
+  color: white !important;
 }
 
 #about {
   background-color: #edf2ef !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: #4db368 !important;
 }
