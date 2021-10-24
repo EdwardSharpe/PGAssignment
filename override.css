@@ -1,5 +1,5 @@
 .bg-dark {
-  background-color: rgb(34, 139, 34) !important;
+  background-color: rgb(14, 122, 14) !important;
   border-bottom: 1em;
   border-bottom-color: #4db368;
 }
@@ -44,7 +44,7 @@ h2.pledge {
 }
 
 a.web-link {
-  color: #4db368;
+  color: #e204ff;
   text-decoration: none;
 }
 a.web-link:hover {
